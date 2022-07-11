@@ -16,3 +16,5 @@ Terminal 2:
 ```
 node client.js
 ```
+
+This example was made with support from [this example](https://github.com/jamesmorgan/ethereum-dice-oracle-example).
