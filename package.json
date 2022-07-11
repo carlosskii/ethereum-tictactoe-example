@@ -1,0 +1,20 @@
+{
+	"name": "ethereum-tictactoe-example",
+	"version": "1.0.0",
+	"description": "Play basic TicTacToe on an Ethereum network.",
+	"main": "client.js",
+	"dependencies": {
+		"bluebird": "^3.5.1",
+		"lodash": "^4.17.4",
+		"prompt": "^1.0.0",
+		"truffle": "^5.5.21",
+		"truffle-contract": "^3.0.1",
+		"web3": "^1.0.0-beta.24"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cryptikkUS/ethereum-tictactoe-example.git"
+	},
+	"author": "James Morgan - Blockchain Manchester, Carlos Kieliszewski",
+	"license": "MIT"
+}
